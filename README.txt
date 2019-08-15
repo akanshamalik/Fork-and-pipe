@@ -8,4 +8,4 @@ Using child and parent processes and connecting using fork() and pipe()-
 -Convert the string to an integer.
 -Calculate the sum of all integers in a data file.
 
-When running its output also ask the user the number of process theywant for child an parent process.
+When running its output also ask the user the number of process they want for child and parent process.
